@@ -1,0 +1,17 @@
+.main__home{
+    position:absolute;
+    top: 0;
+    background-color: #DBC5C5;
+    width: 100%;
+    min-height: 800px;
+    background-position: center;
+    z-index: -1;
+
+
+}
+ .home__container{
+   margin-top: 110px !important;
+}
+.drop__down > ul > li>a{
+    color: green !important;
+}

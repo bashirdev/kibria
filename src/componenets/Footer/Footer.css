@@ -1,0 +1,13 @@
+.footer__link{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  
+    background-color: #524141;
+    height: 100px;
+    text-align: center;
+   
+}
+.footer__link>li>a{
+    color: #fff !important;
+}

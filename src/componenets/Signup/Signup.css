@@ -1,0 +1,11 @@
+.signup__section{
+    position: relative;
+    height:100vh;
+}
+
+.signup__footer{
+    margin-top: 150px;
+}
+.border1{
+    border-bottom: 3px solid green;
+}

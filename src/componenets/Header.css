@@ -1,0 +1,15 @@
+ul> li> a{
+    color: #fff !important;
+    margin-right: 15px !important;
+}
+ul> li> a:hover{
+    color: #fff !important;
+    border-bottom: 2px solid red !important;
+}
+
+@media(max-width:991px){
+    .dark__bg{
+        background-color: darkslategray !important;
+        height:auto;
+    }
+}
